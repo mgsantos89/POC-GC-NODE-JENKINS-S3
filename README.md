@@ -1,0 +1,1 @@
+POC de Deploy de Site Estatico em Bucket S3
